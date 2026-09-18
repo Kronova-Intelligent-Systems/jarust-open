@@ -3,7 +3,7 @@
 [![License: MIT OR Apache-2.0](https://img.shields.io/badge/License-MIT%20OR%20Apache--2.0-blue.svg)](#license)
 [![Crates.io](https://img.shields.io/crates/v/jarust-cli.svg)](https://crates.io/crates/jarust-cli)
 
-**jarust-open** is the open-source diagnostic wedge and AST-parsing engine for the jarust ecosystem. Our main objective is to create a protocol or SDK, agentic AI service, or the optimal determined approach that efficiently rewrites memory-intensive Java services into high-performance Rust applications, eliminating JVM overhead and improving efficiency.[cite: 1]
+**jarust-open** is the open-source diagnostic wedge and AST-parsing engine for the jarust ecosystem. Our main objective is to create a protocol or SDK, agentic AI service, or the optimal determined approach that efficiently rewrites memory-intensive Java services into high-performance Rust applications, eliminating JVM overhead and improving efficiency.
 
 ## Features
 
