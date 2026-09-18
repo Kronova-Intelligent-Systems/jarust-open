@@ -1,0 +1,18 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/jarust-ast",
+    "crates/jarust-analyzer",
+    "crates/jarust-cli"
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["Robert Mourey Jr <robert@kronova.io>"]
+repository = "https://github.com/kronova-intelligent-systems/jarust-open"
+
+[workspace.dependencies]
+jarust-ast = { path = "crates/jarust-ast", version = "0.1.0" }
+jarust-analyzer = { path = "crates/jarust-analyzer", version = "0.1.0" }

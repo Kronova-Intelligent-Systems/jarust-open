@@ -1,0 +1,11 @@
+[package]
+name = "jarust-analyzer"
+description = "Static diagnostic analyzer for JVM hotspots and Rust migration readiness."
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+
+[dependencies]
+jarust-ast.workspace = true
